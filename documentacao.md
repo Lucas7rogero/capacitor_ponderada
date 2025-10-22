@@ -68,11 +68,11 @@ Exemplo:
 ### Gráficos dos resultados (do projeto físico)
 
 - Tensão no capacitor (medido):
-  ![Tensão no C - resultado](assets/resultado_tensao_c.png)
+  ![Tensão no C - resultado](assets/tensao_fisico.png)
 - Tensão no resistor (medido):
-  ![Tensão no R - resultado](assets/resultado_tensao_r.png)
+  ![Tensão no R - resultado](assets/resistor_fisico.png)
 - Comparativo C e R (medido):
-  ![Comparativo C e R - resultado](assets/resultado_comparativo.png)
+  ![Comparativo C e R - resultado](assets/compara_fisico.png)
 
 
 
